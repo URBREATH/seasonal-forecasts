@@ -1,4 +1,4 @@
-# seasonal-forecasts
+# Seasonal-forecasts
 Seasonal montly forecasts for cities
 
 **Goal:** To provide monthly probabilistic forecasts for the next six months, allowing cities to anticipate deviations from average weather conditions and adjust medium-term planning.
