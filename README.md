@@ -4,12 +4,20 @@ Seasonal montly forecasts for cities
 **Goal:** To provide monthly probabilistic forecasts for the next six months, allowing cities to anticipate deviations from average weather conditions and adjust medium-term planning.
 
 ---
+| | |
+| :--- | :--- |
+| **License** | CC BY-NC-ND 4.0 |
+| **Dependencies** | GeoServer (to expose the data via WMS*)<br>Apache Superset (to visualize data via interactive dashboards and graphs)<br>VC Viewer (to visualize data via interactive maps) |
+| **Contact points** | [toni@ficlima.org](mailto:toni@ficlima.org) |
+*For further details on WMS, please refer to the attached document: "Simena - use of WMS.pdf"
+
+---
 
 ### 🛠 Technical Overview
-* **Provided by:** Ficlima, VCS & Municipia. (Contact: toni@ficlima.org)
+* **Provided by:** Ficlima, VCS & Municipia.
 * **Methodology:** Raw models optimized through **Machine Learning (AI)** methods using local observed data.
 * **Delivery:** Results supplied to URBREATH project tools via **WMS**.
-* **Dependencies** Plotted data is updated monthly via WMS inputs. For further details on WMS, please refer to the attached document: "Simena - use of WMS.pdf".
+* **Dependencies** Plotted data is updated monthly via WMS inputs. .
 * **Update Frequency:** 🔄 **Monthly.** Information is updated and delivered every month.
 
 ---
