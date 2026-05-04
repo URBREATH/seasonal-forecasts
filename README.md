@@ -4,12 +4,26 @@ Seasonal montly forecasts for cities
 **Goal:** To provide monthly probabilistic forecasts for the next six months, allowing cities to anticipate deviations from average weather conditions and adjust medium-term planning.
 
 ---
-| | |
-| :--- | :--- |
-| **License** | CC BY-NC-ND 4.0 |
-| **Dependencies** | GeoServer (to expose the data via WMS*)<br>Apache Superset (to visualize data via interactive dashboards and graphs)<br>VC Viewer (to visualize data via interactive maps) |
-| **Contact points** | [toni@ficlima.org](mailto:toni@ficlima.org) |
-*For further details on WMS, please refer to the attached document: "Simena - use of WMS.pdf"
+<table>
+  <tr>
+    <td width="30%"><b>License</b></td>
+    <td>CC BY-NC-ND 4.0</td>
+  </tr>
+  <tr>
+    <td><b>Dependencies</b></td>
+    <td>
+      GeoServer (to expose the data via WMS*)<br>
+      Apache Superset (to visualize data via interactive dashboards and graphs)<br>
+      VC Viewer (to visualize data via interactive maps)
+    </td>
+  </tr>
+  <tr>
+    <td><b>Contact points</b></td>
+    <td><a href="mailto:toni@ficlima.org">toni@ficlima.org</a></td>
+  </tr>
+</table>
+
+<p><sub>*For further details on WMS, please refer to the attached document: "Simena - use of WMS.pdf"</sub></p>
 
 ---
 
