@@ -6,9 +6,10 @@ Seasonal montly forecasts for cities
 ---
 
 ### 🛠 Technical Overview
-* **Provided by:** Ficlima & Municipia.
+* **Provided by:** Ficlima, VCS & Municipia. (Contact: toni@ficlima.org)
 * **Methodology:** Raw models optimized through **Machine Learning (AI)** methods using local observed data.
 * **Delivery:** Results supplied to URBREATH project tools via **WMS**.
+* **Dependencies** Plotted data is updated monthly via WMS inputs. For further details on WMS, please refer to the attached document: "Simena - use of WMS.pdf".
 * **Update Frequency:** 🔄 **Monthly.** Information is updated and delivered every month.
 
 ---
